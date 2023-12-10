@@ -3,7 +3,7 @@ let user = 'Carlos Erick';
 let message = 'Hello World!';
 let array = [1,2,3,4,5];
 array.push(6);
-let text1 = 'La lluvia en Sevilla es una maravilla'
+let text1 = 'La lluvia en Sevilla es una maravilla';
 
 //
 
